@@ -1,0 +1,3 @@
+[submodule "cv-demo"]
+	path = cv-demo
+	url = https://github.com/Cutobe/cv-demo.git
